@@ -57,7 +57,7 @@ brew cask install --appdir="/Applications" ${applications[@]}
 brew cask cleanup
 brew cleanup 
 
-# echo "Installing Python 3"
+echo "Installing Python 3"
 brew install python3
 
 #################################
